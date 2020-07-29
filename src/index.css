@@ -1,0 +1,30 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+  align-items: center;
+  background-color: lightblue;
+}
+
+.file-input {
+  margin-bottom: 2rem;
+  display: block;
+}
+
+.input-label {
+  font-size: large;
+  color: gray;
+}
+
+.password-input {
+  margin-bottom: 2rem;
+  border-radius: 1 rem;
+  outline: none;
+}
+
+.generate-button {
+  border-radius: 0.5rem;
+  background-color: #3ad447;
+}
